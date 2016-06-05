@@ -1,4 +1,4 @@
-][\]import numpy as np
+import numpy as np
 import cv2
 from pykeyboardas import PyKeyboard
 from preprocessor import Preprocessor
